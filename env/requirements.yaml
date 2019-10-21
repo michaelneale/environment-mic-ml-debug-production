@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.112
 - name: nodex
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.2
